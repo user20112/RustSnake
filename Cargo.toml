@@ -1,0 +1,6 @@
+[package]
+name = "Snake"
+version = "0.1.0"
+[[bin]]
+name = "Snake"
+path = "Main.rs"
