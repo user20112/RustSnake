@@ -1,5 +1,8 @@
 mod Snake;
 mod Hamiltonian;
-fn main() {
-    
+fn main() 
+{
+    unsafe {
+    let HamiltonianPath=Hamiltonian::Hamiltonian::new(20);
+    }
 }

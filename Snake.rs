@@ -1,6 +1,7 @@
 struct Snake
 {
     HeadX:i32,
+    CurrentHamiltonianID:i32,
     HeadY:i32,
     Length:i64,
     Points:[point]
